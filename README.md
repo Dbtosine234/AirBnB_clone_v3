@@ -154,5 +154,5 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Atere Oluwatosin - [Github](https://github.com/atere21) / [Twitter](https://twitter.com/)  
-Joel Paul - [Github](https://github.com/Jaaystones) / [Twitter](https://twitter.com/Jaaystones) 
+Adeoba Emmanuel Tosin - [Github](https://github.com/Dbtosine234) / [Twitter](https://twitter.com/dbtosine)  
+Stezzy Beauty - [Github](https://github.com/StezzyBeauty) / [Twitter](https://twitter.com/StezzyBeauty) 
